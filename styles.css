@@ -33,6 +33,7 @@
   border: 50px solid #d1214a;
   border-image: url(assets/White\ Simple\ Flower\ Paper\ Border.png) 5 fill /
     25px / 25px stretch;
+  border-radius: 5%;
 }
 
 .book div {
